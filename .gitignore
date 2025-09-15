@@ -1,0 +1,8 @@
+# Ignore virtual env and PyCharm files
+.venv/
+.idea/
+__pycache__/
+*.pyc
+
+# Optional: ignore model files if too large
+*.pkl
